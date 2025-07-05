@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ET1KA/ET1KA/main/assets/qw.jpg" alt="banner" />
+  <img src="https://raw.githubusercontent.com/ET1KA/ET1KA/main/assets/zah.jpg" alt="banner" />
 </p>
 
 <h1 align="center">Salut 👋, je suis Fandresena Rakotonirina</h1>
