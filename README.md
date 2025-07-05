@@ -3,8 +3,10 @@
   <img src="https://raw.githubusercontent.com/ET1KA/ET1KA/main/assets/zah.jpg" alt="banner" />
 </p>
 
-<h1 align="center">Salut 👋, je suis Fandresena Rakotonirina</h1>
-<h3 align="center">Passionné par le code, les réseaux et la cybersécurité </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Salut%2C+je+suis+Fandresena+Rakotonirina;💻+Passionné+par+le+code;🌐+Les+réseaux+et+la+cybersécurité" alt="Animated header" />
+</p>
+
 
 ---
 
@@ -13,10 +15,10 @@
 🎯 Je suis un développeur passionné par la création d’applications utiles, performantes et bien structurées.  
 🌐 Je m'intéresse également aux **réseaux informatiques** : configuration, sécurité, protocoles et services système.  
 📚 Je travaille sur des projets web, mobiles, desktop et je suis aussi attiré par l’**automatisation des tâches réseau** et la **cybersécurité**.  
-🚀 Mon objectif est de devenir un **développeur complet**, capable de comprendre à la fois les applications et l’infrastructure qui les héberge.
+🚀 Mon objectif est de devenir un **programmeur complet**, capable de comprendre à la fois les applications et l’infrastructure qui les héberge.
 
 🧠 Ce que j’apprends actuellement :
-- Concepts réseau (subnetting, routage, DNS, DHCP, sécurité)
+- Concepts réseau ( routage, DNS, DHCP, sécurité)
 - Pentesting & outils comme Wireshark, Nmap
 - UI/UX Design (Adobe XD)
 
@@ -62,8 +64,8 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FandresenaRakotonirina&show_icons=true&theme=default&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FandresenaRakotonirina&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ET1KA&show_icons=true&theme=default&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ET1KA&theme=default" height="150" />
 </p>
 
 ---
