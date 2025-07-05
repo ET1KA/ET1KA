@@ -1,13 +1,13 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Salut%2C+je+suis+Fandresena+(ET1KA)" alt="Animated header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Salut%2C+je+suis+Fandresena+(ET1KA)" alt="Animated header" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ET1KA/ET1KA/main/assets/zah.jpg" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=💻+Passionné+par+le+code;🌐+Les+réseaux+et+la+cybersécurité" alt="Animated header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Passionné+par+le+code;🌐+Les+réseaux+et+la+cybersécurité" alt="Animated header" />
 </p>
 
 
@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Merci+de+visiter+mon+profil+🙏" alt="Animated header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Merci+de+visiter+mon+profil+🙏" alt="Animated header" />
 </p>
