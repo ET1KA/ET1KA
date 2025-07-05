@@ -1,4 +1,8 @@
 <!-- HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ET1KA/ET1KA/main/assets/qw.jpg" alt="banner" />
+</p>
+
 <h1 align="center">Salut 👋, je suis Fandresena Rakotonirina</h1>
 <h3 align="center">Passionné par le code, les réseaux et la cybersécurité </h3>
 
